@@ -1,9 +1,10 @@
 # ToyProject_GrammerTest
 스프링 MVC + JSP _ 맞춤법 테스트 사이트
-
+<br>
 
 ## 🖥️ 프로젝트 소개
 헷갈릴 수 있는 한글 맞춤법에 대해 간단히 테스트하고, 결과를 공유하는 사이트입니다.
+<br>
 
 ### ⚙️ 개발 환경
 - `Java SE 17`
@@ -12,7 +13,7 @@
 - **Framework** : SpringFramework(5.3.20)
 - **Database** : Oracle DB(21c)
 - **ORM** : Mybatis
-
+<br>
 ## 📌 주요 기능
 #### 맞춤법 테스트 
 - 질문 및 답안 선택
